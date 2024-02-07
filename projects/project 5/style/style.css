@@ -206,7 +206,8 @@ input[type="submit"] {
 
     textarea {
         width: 80vw;
-        height: 15vh;
+        height: 13vh;
+        margin-bottom: 10px;
     }
 
     header {

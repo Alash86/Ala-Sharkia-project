@@ -206,7 +206,7 @@ input[type="submit"] {
 
     textarea {
         width: 80vw;
-        height: 13vh;
+        height: 15vh;
         margin-bottom: 10px;
     }
 
@@ -231,8 +231,8 @@ input[type="submit"] {
 
     .logos {
         margin-top: 10px;
-        width: 37px;
-        height: 37px;
+        width: 30px;
+        height: 30px;
     }
 
     img[src$="logo.png"] {

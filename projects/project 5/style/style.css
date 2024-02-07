@@ -229,7 +229,7 @@ input[type="submit"] {
     }
 
     .logos {
-
+        margin-top: 10px;
         width: 37px;
         height: 37px;
     }

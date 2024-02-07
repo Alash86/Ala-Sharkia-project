@@ -240,6 +240,7 @@ input[type="submit"] {
     }
 
     .contact {
+        margin-top: 20px;
         width: 100vw;
         justify-content: center;
         gap: 20px;

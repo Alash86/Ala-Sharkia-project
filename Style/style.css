@@ -393,7 +393,9 @@ footer {
     }
 
     ul.navbar-nav {
-        width: 98%;
+        width: 100vw;
+        background-color: #fff;
+        text-align: center;
     }
 
     .nav-link.blue {
@@ -405,6 +407,11 @@ footer {
     .nav-link.active {
         font-size: 1rem;
         font-weight: bold;
+    }
+
+    .container-fluid {
+        width: 100vw;
+        gap: 0;
     }
 
     .container-fluid-main {

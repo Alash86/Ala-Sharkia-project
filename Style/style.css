@@ -475,7 +475,7 @@ footer {
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 3179px;
+        height: 2950px;
 
     }
 
@@ -504,6 +504,7 @@ footer {
         direction: rtl;
         margin-bottom: 10px;
         width: 80%;
+        margin-bottom: 40px;
 
     }
 

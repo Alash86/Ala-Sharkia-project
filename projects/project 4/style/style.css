@@ -149,12 +149,12 @@ input[type="submit"] {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: repeat(13, 0.1fr);
-        padding: 20px;
     }
 
     .item {
         width: 33%;
         height: 50%;
+        padding: 5px;
 
     }
 
@@ -253,7 +253,8 @@ input[type="submit"] {
     }
 
     .item.mainLeft {
-        width: 96vw;
+        width: 97vw;
+        margin: auto;
         height: 518px;
         display: flex;
         flex-direction: column;
@@ -310,7 +311,7 @@ input[type="submit"] {
     }
 
     Img {
-        width: 45vw;
+        width: 43vw;
         height: auto;
 
     }
